@@ -1,0 +1,5 @@
+[user]
+	email = simon@aevea.ee
+	name = Simon Prochazka
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
