@@ -3,3 +3,5 @@
 	name = Simon Prochazka
 [url "ssh://git@github.com/"]
 	insteadOf = https://github.com/
+[includeIf "gitdir:~/Developer/capchase"]
+        path = ~/.capchase-gitconfig
